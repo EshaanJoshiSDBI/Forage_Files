@@ -1,0 +1,21 @@
+Rating,Aircraft,Traveller Type,Seat type,Route,flown date,Seat Comfort,Cabin staff,Food_Beverages,entertainment,Ground service,wifi,value_for_money,Recommended
+2,A380,Solo Leisure,Economy Class,San Francisco to London,November 2022,2,1,2,2,3,1,2,no
+7,A320,Solo Leisure,Business Class,London to Lisbon,November 2022,3,4,4,3,3,0,0,yes
+7,Boeing 787 / A320,Solo Leisure,Economy Class,Montreal to Edinburgh via London Heathrow,January 2022,4,4,4,4,4,4,0,yes
+1,,Solo Leisure,Economy Class,Miami to Budapest via London,November 2022,2,3,3,4,1,1,0,no
+4,,Solo Leisure,Premium Economy,Amman Jordan to London UK (Heathrow),November 2022,3,2,1,4,2,0,0,no
+1,,Solo Leisure,Economy Class,Dusseldorf to London via Los Angeles,August 2022,1,1,1,1,1,1,1,no
+2,Boeing 777,Solo Leisure,Business Class,London to Cape Town,November 2022,4,2,1,4,1,1,0,no
+1,,Solo Leisure,Economy Class,Milan to Dallas via London ,November 2022,2,5,2,2,2,2,1,no
+5,Boeing 787-8,Solo Leisure,Economy Class,Baltimore to London Heathrow,November 2022,1,3,3,1,2,3,0,yes
+1,,Couple Leisure,Business Class,Dubai to Belfast via London,October 2022,3,3,3,2,1,2,1,no
+2,A380,Solo Leisure,Economy Class,San Francisco to London,November 2022,2,1,2,2,3,1,2,no
+7,A320,Solo Leisure,Business Class,London to Lisbon,November 2022,3,4,4,3,3,0,0,yes
+7,Boeing 787 / A320,Solo Leisure,Economy Class,Montreal to Edinburgh via London Heathrow,January 2022,4,4,4,4,4,4,0,yes
+1,,Solo Leisure,Economy Class,Miami to Budapest via London,November 2022,2,3,3,4,1,1,0,no
+4,,Solo Leisure,Premium Economy,Amman Jordan to London UK (Heathrow),November 2022,3,2,1,4,2,0,0,no
+1,,Solo Leisure,Economy Class,Dusseldorf to London via Los Angeles,August 2022,1,1,1,1,1,1,1,no
+2,Boeing 777,Solo Leisure,Business Class,London to Cape Town,November 2022,4,2,1,4,1,1,0,no
+1,,Solo Leisure,Economy Class,Milan to Dallas via London ,November 2022,2,5,2,2,2,2,1,no
+5,Boeing 787-8,Solo Leisure,Economy Class,Baltimore to London Heathrow,November 2022,1,3,3,1,2,3,0,yes
+1,,Couple Leisure,Business Class,Dubai to Belfast via London,October 2022,3,3,3,2,1,2,1,no

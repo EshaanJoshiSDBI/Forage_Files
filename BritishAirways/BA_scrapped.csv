@@ -1,0 +1,101 @@
+Rating,Aircraft,Traveller type,Seat type,Route,flown date,seat comfort,cabin staff,food_beverages,entertainment,ground_service,wifi,value_for_money,recommend
+2,A380,Solo Leisure,Economy Class,San Francisco to London,November 2022,2,1,2,2,3,1,2,no
+7,A320,Solo Leisure,Business Class,London to Lisbon,November 2022,3,4,4,3,3,0,0,yes
+7,Boeing 787 / A320,Solo Leisure,Economy Class,Montreal to Edinburgh via London Heathrow,January 2022,4,4,4,4,4,4,0,yes
+1,,Solo Leisure,Economy Class,Miami to Budapest via London,November 2022,2,3,3,4,1,1,0,no
+4,,Solo Leisure,Premium Economy,Amman Jordan to London UK (Heathrow),November 2022,3,2,1,4,2,0,0,no
+1,,Solo Leisure,Economy Class,Dusseldorf to London via Los Angeles,August 2022,1,1,1,1,1,1,1,no
+2,Boeing 777,Solo Leisure,Business Class,London to Cape Town,November 2022,4,2,1,4,1,1,0,no
+1,,Solo Leisure,Economy Class,Milan to Dallas via London ,November 2022,2,5,2,2,2,2,1,no
+5,Boeing 787-8,Solo Leisure,Economy Class,Baltimore to London Heathrow,November 2022,1,3,3,1,2,3,0,yes
+1,,Couple Leisure,Business Class,Dubai to Belfast via London,October 2022,3,3,3,2,1,2,1,no
+1,,Couple Leisure,Economy Class,Dallas to Bologna via London,July 2022,5,5,1,1,0,0,0,no
+1,,Solo Leisure,Economy Class,San Francisco to London,October 2022,1,1,0,0,0,0,0,no
+6,A320,Solo Leisure,Economy Class,London Heathrow to Gibraltar,October 2022,2,1,1,3,3,0,0,no
+1,Boeing 777,Solo Leisure,Business Class,London Heathrow to Nairobi,October 2022,3,1,1,2,1,1,1,no
+9,A350-1000,Solo Leisure,Business Class,London to Los Angeles,October 2022,5,4,5,5,3,5,5,yes
+9,A320,Solo Leisure,Business Class,Copenhagen to Heathrow,October 2022,3,5,5,4,5,5,0,yes
+3,A320,Family Leisure,Economy Class,Larnaca to London,October 2022,1,2,1,1,2,2,0,no
+9,Boeing 787-10,Couple Leisure,Business Class,Atlanta to London,October 2022,5,4,4,5,5,5,4,yes
+2,A380,Solo Leisure,Business Class,Madrid to San Francisco via London,September 2022,3,1,1,4,3,1,0,no
+8,A380,Solo Leisure,Economy Class,London to Washington,October 2022,3,5,5,3,2,5,0,yes
+1,A380,Couple Leisure,Economy Class,London to San Francisco,October 2022,1,1,3,3,1,5,1,no
+3,,Solo Leisure,Economy Class,London to Delhi,October 2022,2,2,1,3,4,1,0,no
+7,Boeing 777-300,Couple Leisure,Economy Class,London to Los Angeles,October 2022,3,4,3,4,4,4,0,yes
+8,Boeing 777,Couple Leisure,Business Class,Miami to London Heathrow,October 2022,5,5,3,2,4,3,0,yes
+9,A380,Solo Leisure,Business Class,Dubai to London,October 2022,4,4,4,2,4,2,3,yes
+1,A320neo,Couple Leisure,Economy Class,London to Cairo,October 2022,1,1,1,4,1,1,0,no
+10,Boeing 777,Solo Leisure,Business Class,Orlando to London Gatwick,October 2022,5,5,5,5,5,4,4,yes
+3,A321neo,Business,Economy Class,London to Cairo,October 2022,2,4,1,3,2,1,0,no
+6,A380,Couple Leisure,Economy Class,Dallas to London,September 2022,2,4,2,4,4,3,0,yes
+7,A319,Couple Leisure,Business Class,Jersey to London Heathrow,September 2022,4,4,4,3,4,0,0,yes
+8,A320,Couple Leisure,Business Class,London Heathrow to Jersey,September 2022,4,5,4,3,4,0,0,yes
+3,A320-200,Solo Leisure,Business Class,Istanbul to London Heathrow,September 2022,1,3,2,1,3,2,0,no
+9,Boeing 777-200,Solo Leisure,Business Class,London Heathrow to New York JFK,September 2022,5,4,4,4,5,5,0,yes
+1,,Business,Economy Class,Gothenburg to Jersey via London,June 2022,2,2,1,1,0,0,0,no
+10,,Solo Leisure,Premium Economy,Heathrow to Mexico City,September 2022,5,5,5,5,5,5,5,yes
+10,,Solo Leisure,Economy Class,London to Tampa,September 2022,5,5,5,5,5,5,5,yes
+4,,Solo Leisure,Economy Class,Sydney to London via Singapore,September 2022,1,3,2,5,4,5,2,yes
+5,A320,Couple Leisure,Economy Class,London to Lisbon,September 2022,4,5,1,3,3,0,0,yes
+1,,Business,Business Class,London to Istanbul,September 2022,1,1,1,1,1,0,0,no
+2,,Couple Leisure,Economy Class,London to Manchester,September 2022,4,1,2,1,1,1,1,no
+2,Boeing 777,Family Leisure,Economy Class,London to Rome,August 2022,4,4,3,1,2,0,0,no
+7,,Couple Leisure,Business Class,London Gatwick to Malaga,September 2022,3,5,5,1,4,1,3,yes
+1,,Business,Economy Class,Heathrow to Tenerife,November 2021,1,0,0,0,0,0,0,no
+4,,Couple Leisure,Economy Class,Manchester to Seattle via London,August 2022,3,2,1,2,4,3,0,no
+1,,Couple Leisure,Premium Economy,San Francisco to London,April 2022,2,1,2,3,1,1,0,no
+10,,Couple Leisure,Economy Class,Berlin to London City,August 2022,3,5,4,2,4,0,0,yes
+9,Boeing 787,Couple Leisure,Economy Class,Tel Aviv to London,August 2022,5,5,5,5,3,4,0,yes
+1,,Solo Leisure,Business Class,London to Manila via Singapore,June 2022,1,1,1,1,1,1,0,no
+1,,Solo Leisure,Economy Class,London to Barcelona,June 2022,1,2,1,1,1,0,0,no
+1,,Business,Business Class,Los Angeles to Thessaloniki via London,June 2022,2,2,1,1,1,0,0,no
+10,,Couple Leisure,Economy Class,Boston to Dublin via London,August 2022,5,5,5,5,5,1,5,yes
+10,,Couple Leisure,Economy Class,London to New York,July 2022,5,5,5,5,5,5,3,yes
+1,Boeing 777,Family Leisure,Economy Class,Cape Town to London Heathrow,August 2022,2,1,1,3,4,3,0,no
+8,,Couple Leisure,Premium Economy,Dallas Ft Worth to London,May 2022,3,5,5,4,4,0,0,yes
+1,,Family Leisure,Economy Class,London to Amsterdam,July 2022,1,1,1,1,1,0,0,no
+1,A320,Solo Leisure,Business Class,London to Marrakesh,June 2022,1,1,1,1,1,1,1,no
+2,,Solo Leisure,Economy Class,Accra to London,November 2021,1,1,0,0,0,0,0,no
+2,,Solo Leisure,Economy Class,Nairobi to New York via London,July 2022,3,5,3,3,1,0,0,no
+8,A380,Family Leisure,Business Class,San Francisco to London,July 2022,4,5,4,4,4,5,4,yes
+1,A320,Solo Leisure,Economy Class,London to Amman,May 2022,1,1,1,1,0,0,0,no
+1,,Family Leisure,Economy Class,Edinburgh to Washington via London,July 2022,2,2,2,1,1,0,0,no
+1,,Couple Leisure,Economy Class,Vancouver to Amsterdam via London,June 2022,5,5,5,5,1,1,0,no
+5,A350-1000,Couple Leisure,Economy Class,Sao Paulo to Heathrow ,July 2022,1,2,3,1,3,3,0,yes
+5,A321,Couple Leisure,Economy Class,London to Reykjavik,May 2022,3,4,1,1,4,0,0,yes
+7,A321,Business,Economy Class,Belfast to London,July 2022,4,5,2,2,4,0,0,yes
+1,,Business Class,,London to Malaga,July 2022,,0,0,0,0,0,0,no
+10,,Couple Leisure,Business Class,London to Toronto,July 2022,5,5,5,5,5,5,0,yes
+8,A350,Family Leisure,Business Class,London to Los Angeles,July 2022,4,4,4,5,5,5,4,yes
+1,,Family Leisure,Economy Class,Washington to London,July 2022,1,1,1,1,0,0,0,no
+2,,Solo Leisure,Premium Economy,Nairobi to New York via London,July 2022,1,1,1,1,1,1,1,no
+1,Embraer 190,Couple Leisure,Business Class,Dublin to London City,July 2022,4,4,3,1,1,0,0,no
+4,"A320, Boeing 787",Solo Leisure,Premium Economy,Venice to Baltimore via London Heathrow,July 2022,3,3,3,2,1,1,2,no
+1,,Couple Leisure,Premium Economy,London to Nairobi,June 2022,1,0,0,0,0,0,0,no
+6,A350,Couple Leisure,Economy Class,London Heathrow to Johannesburg,June 2022,1,3,3,2,2,4,0,no
+1,,Family Leisure,Economy Class,Belfast to London,June 2022,1,1,0,0,0,0,0,no
+1,,Family Leisure,Business Class,June 2022,no,2,2,2,1,1,0,no,
+1,,Couple Leisure,Economy Class,London to Paris,July 2021,1,1,1,1,1,1,1,no
+1,,Business,Business Class,Miami to Paris,June 2022,3,4,4,2,3,1,1,no
+1,,Family Leisure,Economy Class,Edmonton to Cairo,June 2022,2,2,1,1,1,1,2,no
+1,,Couple Leisure,Premium Economy,Amsterdam to Montreal via London,June 2022,2,2,2,2,2,2,2,no
+1,,Solo Leisure,Economy Class,Hong Kong to London,April 2022,1,0,0,0,0,0,0,no
+1,,Family Leisure,Economy Class,Belfast to London,June 2022,3,1,2,1,1,0,0,no
+4,A350,Business,Economy Class,London to Johannesburg,June 2022,1,4,1,2,3,1,2,no
+1,A320,Couple Leisure,Economy Class,Paris CDG to London Heathrow,June 2022,1,4,1,1,2,1,1,no
+4,,Couple Leisure,Business Class,Portland to London,June 2022,2,4,2,2,4,2,0,no
+5,A320,Business,Business Class,London to Malaga,June 2022,3,2,2,2,3,3,0,no
+1,,Couple Leisure,Economy Class,Boston to Edinburgh via Heathrow,June 2022,1,4,4,3,1,1,1,no
+1,,Couple Leisure,Economy Class,Edmonton to Santorini via Toronto / London,June 2022,1,1,1,1,0,0,0,no
+4,A380,Solo Leisure,Economy Class,Vancouver to London,June 2022,1,2,1,3,2,3,0,no
+8,Boeing 777-200,Couple Leisure,Business Class,London to san Francisco,June 2022,4,4,3,5,2,4,4,yes
+2,,Business,Economy Class,London to Amsterdam,June 2022,2,2,2,1,0,0,0,no
+5,Boeing 777,Couple Leisure,Premium Economy,Cancun to London Gatwick,June 2022,4,3,2,4,3,3,0,no
+4,,Couple Leisure,Economy Class,Phoenix to Hamburg via London,June 2022,2,2,3,4,1,1,0,no
+1,,Family Leisure,Business Class,Dallas Fort-Worth to Toulouse via London,June 2022,1,1,1,1,1,1,1,no
+10,A320,Couple Leisure,Business Class,London to Thira,June 2022,5,5,5,5,5,0,0,yes
+10,,Family Leisure,Economy Class,Islamabad to Manchester via Gatwick,April 2022,5,5,5,5,4,0,0,yes
+10,A380,Solo Leisure,Business Class,Vancouver to London,June 2022,4,5,3,4,2,4,5,yes
+9,Boeing 777-300ER,Business,Economy Class,London to Boston,May 2022,4,5,5,5,5,3,0,yes
+9,,Solo Leisure,Economy Class,Johannesburg to Toronto via London,May 2022,4,4,4,4,1,3,0,yes
+1,,Couple Leisure,Economy Class,Zurich to London,February 2022,1,1,0,0,0,0,0,no
